@@ -32,3 +32,6 @@ tools/activate_python.sh
 tools/miniconda.sh
 
 *output/
+
+venv/*
+.idea
