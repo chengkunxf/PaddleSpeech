@@ -1,0 +1,3 @@
+paddlespeech tts --input "你好，欢迎使用飞桨深度学习框架！" --output output.wav
+
+paddlespeech tts --input "玩家2不是用户，是本地生成的，双人对战还有AI参与，感觉有点奇怪" --output 20220209.wav
